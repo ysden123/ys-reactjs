@@ -28,9 +28,7 @@ root.render(
       </Route>
     </Routes>
     <Footer />
-  </Router>,
-
-  document.getElementById("root")
+  </Router>
 );
 
 reportWebVitals();
